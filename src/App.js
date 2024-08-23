@@ -123,7 +123,7 @@
 
 // export default App;
 import React from "react";
-import PaymentHistory from "../src/components/Orders/Orders"; // Adjust the path as needed
+import PaymentHistory from "../src/components/Payment/payment"; // Adjust the path as needed
 
 function App() {
   return (
